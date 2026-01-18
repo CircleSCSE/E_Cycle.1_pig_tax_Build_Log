@@ -4,6 +4,9 @@
   | **Backend** | Supabase (Database, Connection) |
   | **Payment** | Lemon Squeezy (Webhook 연동) |
   | **Business Logic** | 환불 규정 명시, 이메일 알림 자동화, 관리자 대시보드 |
+
+  ![english](https://github.com/user-attachments/assets/6889f5b6-f4be-4a61-983f-487e23c0cec4)
+  [ 사이트 gif 이미지 ]
   
   ## [Project: pig-tax] 개발 일지 (26.01.05 ~ 01.10)
   
