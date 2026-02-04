@@ -48,7 +48,7 @@
 
 ---
 
-# [Lemon Squeezy 승인 거부 (Pivot : 2026-01-22)]
+  ## [ Lemon Squeezy 승인 거부 (Pivot : 2026-01-22) ]
 
 - 승인 거부 메일을 받은 이후, 나의 서비스를 점검해보았다. 돈을 예치받아서 미션을 성공하면 준다는 모델인 점, TAX라는 용어를 사용한 점, 제 3자의 성공 여부 확인으로 인한 법적 분쟁 가능성 등등… 생각 못한 요인들에서 승인 거부 가능성을 확인하게 되었다.
   
@@ -73,6 +73,29 @@
 
   - 규제를 피하는 방식으로 서비스를 수정하느냐?
   - 아니면, 아예 도메인을 옮겨서 이번 교훈을 기반으로 새로운 시도를 하는가?
+
+---
+
+## [ Product Hunter 첫 론칭 ( 2026-02-03 ) ]
+
+<div align="center">
+
+<img src="https://github.com/user-attachments/assets/30bb803c-e445-4109-895e-f1c4de536fce" width="700" alt="사이트_실행">
+
+<p><em>[그림 2] 론칭 화면 </em></p>
+
+</div>
+
+<a href="https://www.producthunt.com/products/pig-tax?embed=true&amp;utm_source=badge-featured&amp;utm_medium=badge&amp;utm_campaign=badge-pig-tax" target="_blank" rel="noopener noreferrer"><img alt="Pig-Tax - commitment platform that provides &quot;Dignity Staking&quot; services | Product Hunt" width="250" height="54" src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=1071727&amp;theme=light&amp;t=1770176257537"></a>
+
+피터레벨스에 대해 알아보니, 이 사람은 이 플랫폼에서 자신들의 프로젝트들을 여러가지 올리고 홍보하며
+피드백도 받고 수요도 확인했던 것 같다.
+
+레몬 스퀴지에서 거절을 당해서 수익창출이 되지 않는 것은 뼈가 아프지만,
+사람들 반응이라고 알고 싶기 때문에 무작정 론칭해보았다.
+
+현재 2명이 글과 상품에 Upvotes를 남겨주었다.
+여기서는 또 어떻게 홍보한담...
 
 ---
   
