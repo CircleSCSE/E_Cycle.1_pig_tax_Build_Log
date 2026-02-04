@@ -1,3 +1,9 @@
+- **사이트 링크** : <a href="https://www.pig-tax.com">https://www.pig-tax.com<a>
+- **Product Hunter 링크** : <a href="https://www.producthunt.com/products/pig-tax?launch=pig-tax">https://www.producthunt.com/products/pig-tax?launch=pig-tax<a>
+- **상품 데모 영상** : <a href="https://www.youtube.com/watch?v=uwXopNp54jg">https://www.youtube.com/watch?v=uwXopNp54jg<a>
+
+---
+  
   | **구분** | **내용** |
   | --- | --- |
   | **Frontend** | Next.js (`page.tsx` 기반), Framer Motion |
@@ -48,7 +54,7 @@
 
 ---
 
-  ## [ Lemon Squeezy 승인 거부 (Pivot : 2026-01-22) ]
+  ## [ Lemon Squeezy 승인 거부 ( Pivot : 2026-01-22 ) ]
 
 - 승인 거부 메일을 받은 이후, 나의 서비스를 점검해보았다. 돈을 예치받아서 미션을 성공하면 준다는 모델인 점, TAX라는 용어를 사용한 점, 제 3자의 성공 여부 확인으로 인한 법적 분쟁 가능성 등등… 생각 못한 요인들에서 승인 거부 가능성을 확인하게 되었다.
   
