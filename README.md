@@ -44,6 +44,36 @@
 - **Landing Page:** 서비스의 얼굴인 랜딩 페이지와 환불 규정(refund_info)을 추가해 신뢰도를 높였습니다.
 - **Communication:** 이메일 발송 기능 ( resend API ) 을 추가하고 수정하여, 사용자가 서비스 이용 후 즉각적인 피드백을 받을 수 있도록 설계했습니다.
 
+
+<div align="center">
+
+<img src="https://github.com/user-attachments/assets/10c7721c-29ad-4e14-b689-756e246a3505" width="500" alt="사이트_실행">
+
+<p><em>[그림 2-1] 이메일 발송 제목 </em></p>
+
+</div>
+
+
+
+<div align="center">
+
+<img src="https://github.com/user-attachments/assets/6db7b612-ecfd-48cb-ac7c-b6319b8d38f7" width="700" alt="사이트_실행">
+
+<p><em>[그림 2-2] 이메일 내용 </em></p>
+
+</div>
+
+
+
+<div align="center">
+
+<img src="https://github.com/user-attachments/assets/830e717c-a3b7-4ccf-b8e3-ed3a7116c0cf" width="700" alt="사이트_실행">
+
+<p><em>[그림 3] 결과창 이후 다운된 증명서 이미지 파일 </em></p>
+
+</div>
+
+
 ### 4. 운영 자동화 및 관리자 기능 (Phase 4: 01.10 ~ Present)
 
 내가 직접 움직이지 않아도 돌아가는 '시스템'을 만드는 단계입니다.
